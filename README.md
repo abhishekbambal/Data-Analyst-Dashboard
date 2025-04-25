@@ -1,2 +1,3 @@
-# Data-Analyst-Dashboard
-Analyzed ride data from OLA Cabs to understand customer behavior, booking patterns, and improve service efficiency. Worked on cleaning the data, finding key trends like peak hours, popular routes, and cancellation reasons.
+# OLA Data Analyst Project (interactive dashboard creation using Power bi)
+## Project Objective:-
+To analyze OLA ride data to identify booking trends, customer behavior, and operational challenges in order to improve decision-making, reduce cancellations, and enhance overall service efficiency.
